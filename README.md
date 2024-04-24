@@ -6,7 +6,7 @@ LabraDocs is a solution for generating accessible PDFs from .docx files with JSO
 
 ## Getting Started
 
-For detailed documentation on how to use LabraDocs, including installation guides, API references, and more, please visit [our documentation website](https://pathfindr.dev/LabraDocs).
+For detailed documentation on how to use LabraDocs, including installation guides, API references, and more, please visit [our website](https://pathfindr.dev/LabraDocs).
 
 ## Examples
 
