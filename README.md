@@ -10,7 +10,7 @@ For detailed documentation on how to use LabraDocs, including installation guide
 
 ## Examples
 
-Currently, we are in the process of adding more examples to demonstrate the full capabilities of LabraDocs. Stay tuned for updates! In the meantime, you can visit [our documentation]((https://docs.pathfindr.dev/LabraDocs/) for more information.
+Currently, we are in the process of adding more examples to demonstrate the full capabilities of LabraDocs. Stay tuned for updates! In the meantime, you can visit [our documentation](https://docs.pathfindr.dev/LabraDocs/) for more information.
 
 ## Issues and Feedback
 
